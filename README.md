@@ -32,4 +32,5 @@ I am a Web Developer from 🇧🇷 Recife-PE.
 
 
 ## Github Stats :zap:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Vr-Farias&show_icons=true&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Vr-Farias&theme=vue-dark&layout=compact)
+![Github Stats]
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vr-Farias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vr-Farias&layout=compact&langs_count=7&theme=tokyonight"/>
