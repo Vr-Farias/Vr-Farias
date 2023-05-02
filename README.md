@@ -27,8 +27,10 @@ I am a Web Developer from 🇧🇷 Recife-PE.
 
 ## Contact me in social media :thumbsup:
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrejaques/)](https://www.linkedin.com/in/vr-farias/)
+<a href="https://www.linkedin.com/in/vr-farias/">![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:vr.farias1992@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
 ## Github Stats :zap:
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vr-Farias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vr-Farias&layout=compact&langs_count=7&theme=tokyonight"/>
+![Vr-Farias's Stats](https://github-readme-stats.vercel.app/api?username=Vr-Farias&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+![Vr-Farias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vr-Farias&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
