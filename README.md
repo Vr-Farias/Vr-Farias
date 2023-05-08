@@ -8,7 +8,7 @@ I am a Web Developer from 🇧🇷 Recife-PE.
 
 ## A little about me
 
-**I'm a former pedagogy student** at <a href="https://www.ufpe.br">_Universidade Federal de Pernambuco_</a> and worked along the years as a Secretary or Administrative Assistant. Now I'm a **Full-Stack Developer** by <a href="https://www.labenu.com.br">_Labenu_</a>, and taking In-Depth Back-End classes program by <a href="https://www.pe.senac.br/">_Senac_</a>. Always having a deep interest in games, series and movies, the tech field remained as a passion that I just started to explore. 
+**I'm a former pedagogy student** at <a href="https://www.ufpe.br">_Universidade Federal de Pernambuco_</a> and worked along the years as a Secretary or Administrative Assistant. Now I'm a **Full-Stack Developer** by <a href="https://www.labenu.com.br">_Labenu_</a>, and taking **In-Depth Back-End** classes program by <a href="https://www.pe.senac.br/">_Senac_</a>. Always having a deep interest in games, series and movies, the tech field remained as a passion that I just started to explore. 
 
 
 ## Technologies that I code with 💻
