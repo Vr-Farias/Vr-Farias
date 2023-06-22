@@ -2,13 +2,13 @@
 
 ### Welcome to my profile. 😊
 
-I am a Web Developer from 🇧🇷 Recife-PE.
+I am a Full-Stack Developer from 🇧🇷 Recife-PE.
 
 <img src="https://64.media.tumblr.com/2982e8d9192f1ce512a75386c8095221/623d6fe17f644875-e6/s1280x1920/848a41328a325d6d60c59522c74587a0fbfce887.gif" width="fit">
 
 ## A little about me
 
-**I'm a former pedagogy student** at <a href="https://www.ufpe.br">_Universidade Federal de Pernambuco_</a> and worked along the years as a Secretary or Administrative Assistant. Now I'm a **Full-Stack Developer** by <a href="https://www.labenu.com.br">_Labenu_</a>, and taking **In-Depth Back-End** classes program by <a href="https://www.pe.senac.br/">_Senac_</a>. Always having a deep interest in games, series and movies, the tech field remained as a passion that I just started to explore. 
+**I'm a former pedagogy student** at <a href="https://www.ufpe.br">_Universidade Federal de Pernambuco_</a> and worked along the years as a Secretary or Administrative Assistant. Now I'm a **Full-Stack Developer** by <a href="https://www.labenu.com.br">_Labenu_</a>, and a certified **Advanced Back-End Dev** by <a href="https://www.pe.senac.br/">_Senac_</a>. Always having a deep interest in games, series and movies, the tech field remained as a passion that I just started to explore. 
 
 
 ## Technologies that I code with 💻
