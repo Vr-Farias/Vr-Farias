@@ -8,7 +8,7 @@ I am a Full-Stack Developer from 🇧🇷 Recife-PE.
 
 ## A little about me
 
-**I'm a former pedagogy student** at <a href="https://www.ufpe.br">_Universidade Federal de Pernambuco_</a> and worked along the years as a Secretary or Administrative Assistant. Now I'm a **Full-Stack Developer** by <a href="https://www.labenu.com.br">_Labenu_</a>, and a certified **Advanced Back-End Dev** by <a href="https://www.pe.senac.br/">_Senac_</a>. Always having a deep interest in games, series and movies, the tech field remained as a passion that I just started to explore. 
+**I'm a former pedagogy student** at <a href="https://www.ufpe.br">_Universidade Federal de Pernambuco_</a> and worked along the years as a Secretary or Administrative Assistant. Now I'm a **Full-Stack Developer** by <a href="https://www.labenu.com.br">_Labenu_</a>, a certified **Advanced Back-End Developer** by <a href="https://www.pe.senac.br/">_Senac_</a>, and a certified **SAP ABAP Developer** by <a href="https://www.accenture.com/br-pt">_Accenture Brasil_</a>. Always having a deep interest in games, series and movies, the tech field remained as a passion that I just started to explore. 
 
 
 ## Technologies that I code with 💻
@@ -20,10 +20,14 @@ I am a Full-Stack Developer from 🇧🇷 Recife-PE.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Learning:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![VUE.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ## Contact me in social media :thumbsup:
 
